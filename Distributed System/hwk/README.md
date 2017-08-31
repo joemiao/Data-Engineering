@@ -1,4 +1,4 @@
-# Project Title
+# HDFS App Installer
 
 A simple python script that deploys a distributted application to a Hadoop Cluster. 
 
